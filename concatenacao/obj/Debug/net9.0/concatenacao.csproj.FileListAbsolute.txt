@@ -1,0 +1,15 @@
+T:\Workspace\Matheo\csharp\concatenacao\bin\Debug\net9.0\concatenacao.exe
+T:\Workspace\Matheo\csharp\concatenacao\bin\Debug\net9.0\concatenacao.deps.json
+T:\Workspace\Matheo\csharp\concatenacao\bin\Debug\net9.0\concatenacao.runtimeconfig.json
+T:\Workspace\Matheo\csharp\concatenacao\bin\Debug\net9.0\concatenacao.dll
+T:\Workspace\Matheo\csharp\concatenacao\bin\Debug\net9.0\concatenacao.pdb
+T:\Workspace\Matheo\csharp\concatenacao\obj\Debug\net9.0\concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Matheo\csharp\concatenacao\obj\Debug\net9.0\concatenacao.AssemblyInfoInputs.cache
+T:\Workspace\Matheo\csharp\concatenacao\obj\Debug\net9.0\concatenacao.AssemblyInfo.cs
+T:\Workspace\Matheo\csharp\concatenacao\obj\Debug\net9.0\concatenacao.csproj.CoreCompileInputs.cache
+T:\Workspace\Matheo\csharp\concatenacao\obj\Debug\net9.0\concatenacao.sourcelink.json
+T:\Workspace\Matheo\csharp\concatenacao\obj\Debug\net9.0\concatenacao.dll
+T:\Workspace\Matheo\csharp\concatenacao\obj\Debug\net9.0\refint\concatenacao.dll
+T:\Workspace\Matheo\csharp\concatenacao\obj\Debug\net9.0\concatenacao.pdb
+T:\Workspace\Matheo\csharp\concatenacao\obj\Debug\net9.0\concatenacao.genruntimeconfig.cache
+T:\Workspace\Matheo\csharp\concatenacao\obj\Debug\net9.0\ref\concatenacao.dll
