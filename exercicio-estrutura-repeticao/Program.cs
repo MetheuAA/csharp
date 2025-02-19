@@ -35,7 +35,6 @@ foreach (char letra in palavra)
 }
 
 Console.WriteLine($"A palavra '{palavra}' tem {contadorVogais} vogais.");
-//porra tabnine faz essa merda certo
 
 //crie um algoritmo que solicite uma palavra ou frase do usuário, e verifique se é um palíndromo, ou seja, se é igual de trás para frente
 
