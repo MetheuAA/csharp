@@ -17,3 +17,10 @@ do{
     Console.WriteLine($"Número: {numero1}");
     numero1++;
 } while (numero1 <10);
+
+// Estrutura de repetição for
+
+for (int i = 0; i <= 10; i++)
+{
+    Console.WriteLine($"Valor de i: {i}");
+}
