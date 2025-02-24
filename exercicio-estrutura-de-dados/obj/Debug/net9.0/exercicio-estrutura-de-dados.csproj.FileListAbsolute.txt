@@ -1,0 +1,15 @@
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\bin\Debug\net9.0\exercicio-estrutura-de-dados.exe
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\bin\Debug\net9.0\exercicio-estrutura-de-dados.deps.json
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\bin\Debug\net9.0\exercicio-estrutura-de-dados.runtimeconfig.json
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\bin\Debug\net9.0\exercicio-estrutura-de-dados.dll
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\bin\Debug\net9.0\exercicio-estrutura-de-dados.pdb
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\obj\Debug\net9.0\exercicio-estrutura-de-dados.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\obj\Debug\net9.0\exercicio-estrutura-de-dados.AssemblyInfoInputs.cache
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\obj\Debug\net9.0\exercicio-estrutura-de-dados.AssemblyInfo.cs
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\obj\Debug\net9.0\exercicio-estrutura-de-dados.csproj.CoreCompileInputs.cache
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\obj\Debug\net9.0\exercicio-estrutura-de-dados.sourcelink.json
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\obj\Debug\net9.0\exercicio-estrutura-de-dados.dll
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\obj\Debug\net9.0\refint\exercicio-estrutura-de-dados.dll
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\obj\Debug\net9.0\exercicio-estrutura-de-dados.pdb
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\obj\Debug\net9.0\exercicio-estrutura-de-dados.genruntimeconfig.cache
+T:\Workspace\Matheo\csharp\exercicio-estrutura-de-dados\obj\Debug\net9.0\ref\exercicio-estrutura-de-dados.dll

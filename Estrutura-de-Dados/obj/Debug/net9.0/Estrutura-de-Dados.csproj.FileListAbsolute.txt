@@ -1,0 +1,15 @@
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\bin\Debug\net9.0\Estrutura-de-Dados.exe
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\bin\Debug\net9.0\Estrutura-de-Dados.deps.json
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\bin\Debug\net9.0\Estrutura-de-Dados.runtimeconfig.json
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\bin\Debug\net9.0\Estrutura-de-Dados.dll
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\bin\Debug\net9.0\Estrutura-de-Dados.pdb
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\obj\Debug\net9.0\Estrutura-de-Dados.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\obj\Debug\net9.0\Estrutura-de-Dados.AssemblyInfoInputs.cache
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\obj\Debug\net9.0\Estrutura-de-Dados.AssemblyInfo.cs
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\obj\Debug\net9.0\Estrutura-de-Dados.csproj.CoreCompileInputs.cache
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\obj\Debug\net9.0\Estrutura-de-Dados.sourcelink.json
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\obj\Debug\net9.0\Estrutura-de-Dados.dll
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\obj\Debug\net9.0\refint\Estrutura-de-Dados.dll
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\obj\Debug\net9.0\Estrutura-de-Dados.pdb
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\obj\Debug\net9.0\Estrutura-de-Dados.genruntimeconfig.cache
+T:\Workspace\Matheo\csharp\Estrutura-de-Dados\obj\Debug\net9.0\ref\Estrutura-de-Dados.dll
