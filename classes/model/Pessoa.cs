@@ -14,4 +14,13 @@ public class Pessoa
         this.altura = altura;
         this.peso = peso;
     }
+    //Métodos Andar e Falar
+    public void Andar()
+    {
+        Console.WriteLine($"{nome} está andando.");
+    }
+    public void Falar()
+    {
+        Console.WriteLine($"{nome} Vou ficar rico programando em C#!");
+    }
 }
