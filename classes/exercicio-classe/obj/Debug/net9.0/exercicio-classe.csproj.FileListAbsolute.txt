@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\bin\Debug\net9.0\exercicio-classe.exe
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\bin\Debug\net9.0\exercicio-classe.deps.json
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\bin\Debug\net9.0\exercicio-classe.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\bin\Debug\net9.0\exercicio-classe.dll
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\bin\Debug\net9.0\exercicio-classe.pdb
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\obj\Debug\net9.0\exercicio-classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\obj\Debug\net9.0\exercicio-classe.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\obj\Debug\net9.0\exercicio-classe.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\obj\Debug\net9.0\exercicio-classe.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\obj\Debug\net9.0\exercicio-classe.sourcelink.json
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\obj\Debug\net9.0\exercicio-classe.dll
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\obj\Debug\net9.0\refint\exercicio-classe.dll
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\obj\Debug\net9.0\exercicio-classe.pdb
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\obj\Debug\net9.0\exercicio-classe.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\csharp\classes\exercicio-classe\obj\Debug\net9.0\ref\exercicio-classe.dll
