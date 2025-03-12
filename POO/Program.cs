@@ -1,6 +1,5 @@
-﻿﻿using System;
-using POO.model;
+﻿﻿using POO.model;
 
-Veiculo obj = new Veiculo ("Honda", "Civic", 2020, 100);
+Veiculo obj = new Veiculo("Honda", "Civic", 2020, 240.00);
 obj.Acelerar();
-obj.Frear();
+obj.Freiar();
