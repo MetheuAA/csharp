@@ -60,5 +60,14 @@ namespace POO.model
                 Console.WriteLine($"O carro freou até {velocidadeAtual}km/h");
             }
         }
+            public override void ObterDadosVeiculo()
+        {
+            Console.WriteLine($"\nDados do Carro:\n"+
+            $"Marca: {GetMarca()} \n"+
+            $"Modelo: {GetModelo()} \n"+
+            $"Ano: {GetAno()} \n"+
+            $"Automático: {(GetAutomatico() ? "Sim" : "Não")}\n"+
+            $"Número de portas: {GetNumeroDePortas()}");
+        }
     }
 }

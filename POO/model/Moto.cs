@@ -8,8 +8,8 @@ namespace POO.model
 {
     public class Moto: Veiculo
     {
-        private bool partidaEletrica
-        private bool protetorDeCarenagem
+        private bool partidaEletrica;
+        private bool protetorDeCarenagem;
 
         public Moto(string marca, string modelo, int ano, double velocidadeAtual, bool partidaEletrica, bool protetorDeCarenagem) : base(marca, modelo, ano, velocidadeAtual)
         {
