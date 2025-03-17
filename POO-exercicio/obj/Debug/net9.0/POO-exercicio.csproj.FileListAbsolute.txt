@@ -1,0 +1,15 @@
+T:\Workspace\Matheo\csharp\POO-exercicio\bin\Debug\net9.0\POO-exercicio.exe
+T:\Workspace\Matheo\csharp\POO-exercicio\bin\Debug\net9.0\POO-exercicio.deps.json
+T:\Workspace\Matheo\csharp\POO-exercicio\bin\Debug\net9.0\POO-exercicio.runtimeconfig.json
+T:\Workspace\Matheo\csharp\POO-exercicio\bin\Debug\net9.0\POO-exercicio.dll
+T:\Workspace\Matheo\csharp\POO-exercicio\bin\Debug\net9.0\POO-exercicio.pdb
+T:\Workspace\Matheo\csharp\POO-exercicio\obj\Debug\net9.0\POO-exercicio.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Matheo\csharp\POO-exercicio\obj\Debug\net9.0\POO-exercicio.AssemblyInfoInputs.cache
+T:\Workspace\Matheo\csharp\POO-exercicio\obj\Debug\net9.0\POO-exercicio.AssemblyInfo.cs
+T:\Workspace\Matheo\csharp\POO-exercicio\obj\Debug\net9.0\POO-exercicio.csproj.CoreCompileInputs.cache
+T:\Workspace\Matheo\csharp\POO-exercicio\obj\Debug\net9.0\POO-exercicio.sourcelink.json
+T:\Workspace\Matheo\csharp\POO-exercicio\obj\Debug\net9.0\POO-exercicio.dll
+T:\Workspace\Matheo\csharp\POO-exercicio\obj\Debug\net9.0\refint\POO-exercicio.dll
+T:\Workspace\Matheo\csharp\POO-exercicio\obj\Debug\net9.0\POO-exercicio.pdb
+T:\Workspace\Matheo\csharp\POO-exercicio\obj\Debug\net9.0\POO-exercicio.genruntimeconfig.cache
+T:\Workspace\Matheo\csharp\POO-exercicio\obj\Debug\net9.0\ref\POO-exercicio.dll
