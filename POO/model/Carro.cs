@@ -35,5 +35,30 @@ namespace POO.model
         {
             Console.WriteLine("As portas do carro estão abertas.");
         }
+        public void Frear(double decremento, bool puxarFreioDeMao)
+        {
+            velocidadeAtual -= decremento;
+            if(puxarFreioDeMao)
+        {
+            Console.WriteLine($"O carro freou até a velocidade de {velocidadeAtual} km/h para não bater");
+        }
+        else
+        {
+            Console.WriteLine($"O carro freou lentamente até {velocidadeAtual}km/h");
+        }
+        }
+
+        public void Frear(double decremento, bool puxarFreioDeMao, bool virouVolante)
+        {
+            velocidadeAtual -= decremento;
+            if(puxarFreioDeMao && virouVolante)
+            {
+                Console.WriteLine($"O carro está realizando um cavalinho de pau com intensidade de frenagem {velocidadeAtual}!");
+            }
+            else
+            {
+                Console.WriteLine($"O carro freou até {velocidadeAtual}km/h");
+            }
+        }
     }
 }

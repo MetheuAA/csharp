@@ -66,8 +66,9 @@ namespace POO.model
         velocidadeAtual += incremento;
         Console.WriteLine($"Acelerado... Velocidade Atual {velocidadeAtual} km/h.");
     }
-    public void Freiar()
+    public void Freiar(double incremento)
     {
+        velocidadeAtual -= incremento;
         Console.WriteLine($"Freando... Velocidade Atual {velocidadeAtual}");
     }
     }
