@@ -1,0 +1,15 @@
+T:\Workspace\Matheo\csharp\Jogo\bin\Debug\net9.0\Jogo.exe
+T:\Workspace\Matheo\csharp\Jogo\bin\Debug\net9.0\Jogo.deps.json
+T:\Workspace\Matheo\csharp\Jogo\bin\Debug\net9.0\Jogo.runtimeconfig.json
+T:\Workspace\Matheo\csharp\Jogo\bin\Debug\net9.0\Jogo.dll
+T:\Workspace\Matheo\csharp\Jogo\bin\Debug\net9.0\Jogo.pdb
+T:\Workspace\Matheo\csharp\Jogo\obj\Debug\net9.0\Jogo.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Matheo\csharp\Jogo\obj\Debug\net9.0\Jogo.AssemblyInfoInputs.cache
+T:\Workspace\Matheo\csharp\Jogo\obj\Debug\net9.0\Jogo.AssemblyInfo.cs
+T:\Workspace\Matheo\csharp\Jogo\obj\Debug\net9.0\Jogo.csproj.CoreCompileInputs.cache
+T:\Workspace\Matheo\csharp\Jogo\obj\Debug\net9.0\Jogo.sourcelink.json
+T:\Workspace\Matheo\csharp\Jogo\obj\Debug\net9.0\Jogo.dll
+T:\Workspace\Matheo\csharp\Jogo\obj\Debug\net9.0\refint\Jogo.dll
+T:\Workspace\Matheo\csharp\Jogo\obj\Debug\net9.0\Jogo.pdb
+T:\Workspace\Matheo\csharp\Jogo\obj\Debug\net9.0\Jogo.genruntimeconfig.cache
+T:\Workspace\Matheo\csharp\Jogo\obj\Debug\net9.0\ref\Jogo.dll
