@@ -5,12 +5,13 @@ using System.Threading.Tasks;
 
 namespace sistema_personagens.model
 {
-    public class Jarcem: Personagens
+    public class Jarcem : Personagens
     {
         private string arma;
         private bool emBatalha;
 
-        public Jarcem(string nome, string classe, int nivel, string genero, string arma, bool emBatalha) : base(nome, classe, nivel, genero)
+        public Jarcem(string nome, string classe, int nivel, string genero, string arma, bool emBatalha) 
+            : base(nome, classe, nivel, genero)
         {
             this.arma = arma;
             this.emBatalha = emBatalha;
@@ -56,5 +57,28 @@ namespace sistema_personagens.model
             Console.WriteLine($"Arma: {GetArma()}");
             Console.WriteLine($"Em Batalha?: {(GetEmBatalha() ? "Sim" : "Não")}");
         }
+
+        public void DesempenhoEmBatalha()
+        {
+            if (emBatalha)
+            {
+                Console.WriteLine("Jarcem está arrasando no campo de batalha com sua habilidade de combate!");
+            }
+            else
+            {
+                Console.WriteLine("Jarcem não está em batalha no momento.");
+            }
+        }
+
+
+        public void UsarHabilidadeEspecial()
+        {
+            Console.WriteLine("Jarcem invoca a habilidade especial 'Fúria do Guerreiro' e ataca com poder esmagador!");
+        }
+
+          public override void RealizarAcaoEspecial()
+    {
+        Console.WriteLine($"{GetNome()} usa a {arma} para realizar um ataque devastador!");
     }
+}
 }

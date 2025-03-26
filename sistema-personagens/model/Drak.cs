@@ -5,12 +5,13 @@ using System.Threading.Tasks;
 
 namespace sistema_personagens.model
 {
-    public class Drak: Personagens
+    public class Drak : Personagens
     {
         private string totem;
         private bool emRaiva;
 
-        public Drak(string nome, string classe, int nivel, string genero, string totem, bool emRaiva) : base(nome, classe, nivel, genero)
+        public Drak(string nome, string classe, int nivel, string genero, string totem, bool emRaiva) 
+            : base(nome, classe, nivel, genero)
         {
             this.totem = totem;
             this.emRaiva = emRaiva;
@@ -56,5 +57,18 @@ namespace sistema_personagens.model
             Console.WriteLine($"Totem: {GetTotem()}");
             Console.WriteLine($"Em Raiva?: {(GetEmRaiva() ? "Sim" : "Não")}");
         }
+
+
+         public override void RealizarAcaoEspecial()
+    {
+        if (emRaiva)
+        {
+            Console.WriteLine($"{GetNome()} usa seu totem {totem} para desferir um ataque furioso!");
+        }
+        else
+        {
+            Console.WriteLine($"{GetNome()} usa seu totem {totem} em um ataque básico.");
+        }
     }
+}
 }
