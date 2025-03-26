@@ -1,0 +1,15 @@
+T:\Workspace\Matheo\csharp\sistema-personagens\bin\Debug\net9.0\sistema-personagens.exe
+T:\Workspace\Matheo\csharp\sistema-personagens\bin\Debug\net9.0\sistema-personagens.deps.json
+T:\Workspace\Matheo\csharp\sistema-personagens\bin\Debug\net9.0\sistema-personagens.runtimeconfig.json
+T:\Workspace\Matheo\csharp\sistema-personagens\bin\Debug\net9.0\sistema-personagens.dll
+T:\Workspace\Matheo\csharp\sistema-personagens\bin\Debug\net9.0\sistema-personagens.pdb
+T:\Workspace\Matheo\csharp\sistema-personagens\obj\Debug\net9.0\sistema-personagens.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Matheo\csharp\sistema-personagens\obj\Debug\net9.0\sistema-personagens.AssemblyInfoInputs.cache
+T:\Workspace\Matheo\csharp\sistema-personagens\obj\Debug\net9.0\sistema-personagens.AssemblyInfo.cs
+T:\Workspace\Matheo\csharp\sistema-personagens\obj\Debug\net9.0\sistema-personagens.csproj.CoreCompileInputs.cache
+T:\Workspace\Matheo\csharp\sistema-personagens\obj\Debug\net9.0\sistema-personagens.sourcelink.json
+T:\Workspace\Matheo\csharp\sistema-personagens\obj\Debug\net9.0\sistema-personagens.dll
+T:\Workspace\Matheo\csharp\sistema-personagens\obj\Debug\net9.0\refint\sistema-personagens.dll
+T:\Workspace\Matheo\csharp\sistema-personagens\obj\Debug\net9.0\sistema-personagens.pdb
+T:\Workspace\Matheo\csharp\sistema-personagens\obj\Debug\net9.0\sistema-personagens.genruntimeconfig.cache
+T:\Workspace\Matheo\csharp\sistema-personagens\obj\Debug\net9.0\ref\sistema-personagens.dll
