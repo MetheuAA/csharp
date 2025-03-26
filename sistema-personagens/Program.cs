@@ -8,7 +8,7 @@ class Program
         Tasha tasha = new Tasha("Tasha", "Maga", 33, "Mulher", "Fogo", true);
         tasha.ObterDadosDoPersonagem();
         tasha.RealizarAcaoEspecial();
-        tasha.Defender();  // Demonstra o uso do método Defender
+        tasha.Defender("teleporte");  // Demonstra o uso do método Defender
 
         Jarcem jarcem = new Jarcem("Jarcem", "Guerreiro", 25, "Homem", "Espada Longa", true);
         jarcem.ObterDadosDoPersonagem();
