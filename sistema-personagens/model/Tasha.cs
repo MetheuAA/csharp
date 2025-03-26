@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -69,5 +70,9 @@ namespace sistema_personagens.model
             Console.WriteLine($"{GetNome()} não consegue realizar nenhuma ação especial, pois não existe no momento.");
         }
     }
+    public void Defender(string teleporte)
+        {
+            Console.WriteLine($"Tasha utiliza seu {teleporte} para se defender ");
+        }
 }
 }
