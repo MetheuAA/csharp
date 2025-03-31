@@ -1,0 +1,15 @@
+T:\Workspace\Matheo\csharp\exercicio-interface\bin\Debug\net9.0\exercicio-interface.exe
+T:\Workspace\Matheo\csharp\exercicio-interface\bin\Debug\net9.0\exercicio-interface.deps.json
+T:\Workspace\Matheo\csharp\exercicio-interface\bin\Debug\net9.0\exercicio-interface.runtimeconfig.json
+T:\Workspace\Matheo\csharp\exercicio-interface\bin\Debug\net9.0\exercicio-interface.dll
+T:\Workspace\Matheo\csharp\exercicio-interface\bin\Debug\net9.0\exercicio-interface.pdb
+T:\Workspace\Matheo\csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Matheo\csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.AssemblyInfoInputs.cache
+T:\Workspace\Matheo\csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.AssemblyInfo.cs
+T:\Workspace\Matheo\csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.csproj.CoreCompileInputs.cache
+T:\Workspace\Matheo\csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.sourcelink.json
+T:\Workspace\Matheo\csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.dll
+T:\Workspace\Matheo\csharp\exercicio-interface\obj\Debug\net9.0\refint\exercicio-interface.dll
+T:\Workspace\Matheo\csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.pdb
+T:\Workspace\Matheo\csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.genruntimeconfig.cache
+T:\Workspace\Matheo\csharp\exercicio-interface\obj\Debug\net9.0\ref\exercicio-interface.dll
