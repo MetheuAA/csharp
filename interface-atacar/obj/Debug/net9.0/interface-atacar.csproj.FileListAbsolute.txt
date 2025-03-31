@@ -1,0 +1,15 @@
+T:\Workspace\Matheo\csharp\interface-atacar\bin\Debug\net9.0\interface-atacar.exe
+T:\Workspace\Matheo\csharp\interface-atacar\bin\Debug\net9.0\interface-atacar.deps.json
+T:\Workspace\Matheo\csharp\interface-atacar\bin\Debug\net9.0\interface-atacar.runtimeconfig.json
+T:\Workspace\Matheo\csharp\interface-atacar\bin\Debug\net9.0\interface-atacar.dll
+T:\Workspace\Matheo\csharp\interface-atacar\bin\Debug\net9.0\interface-atacar.pdb
+T:\Workspace\Matheo\csharp\interface-atacar\obj\Debug\net9.0\interface-atacar.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Matheo\csharp\interface-atacar\obj\Debug\net9.0\interface-atacar.AssemblyInfoInputs.cache
+T:\Workspace\Matheo\csharp\interface-atacar\obj\Debug\net9.0\interface-atacar.AssemblyInfo.cs
+T:\Workspace\Matheo\csharp\interface-atacar\obj\Debug\net9.0\interface-atacar.csproj.CoreCompileInputs.cache
+T:\Workspace\Matheo\csharp\interface-atacar\obj\Debug\net9.0\interface-atacar.sourcelink.json
+T:\Workspace\Matheo\csharp\interface-atacar\obj\Debug\net9.0\interface-atacar.dll
+T:\Workspace\Matheo\csharp\interface-atacar\obj\Debug\net9.0\refint\interface-atacar.dll
+T:\Workspace\Matheo\csharp\interface-atacar\obj\Debug\net9.0\interface-atacar.pdb
+T:\Workspace\Matheo\csharp\interface-atacar\obj\Debug\net9.0\interface-atacar.genruntimeconfig.cache
+T:\Workspace\Matheo\csharp\interface-atacar\obj\Debug\net9.0\ref\interface-atacar.dll
